@@ -5,9 +5,9 @@ published: true
 tags: [dataviz, hvplot]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 hv-loader:
-  hv-chart-1: ["charts/ca_stations.html", "1000"]
-  hv-chart-2: ["charts/ev2.html", "1000"] 
-  hv-chart-3: ["charts/la.html", "1000"] 
+  hv-chart-1: ["charts/ca_stations.html", "1000,1000"]
+  hv-chart-2: ["charts/ev2.html", "1000, 1000"] 
+  hv-chart-3: ["charts/la.html", "1000,1000"] 
 toc: false
 toc_sticky: false
 ---

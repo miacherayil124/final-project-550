@@ -58,31 +58,6 @@ author:
   name: "Myron Joel Bañez, Mia Cherayil, Kendra Hills"
   avatar:
   bio: "Students of City & Regional Planning, Weitzman School of Design"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://nickhand.dev"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 # Defaults
 defaults:

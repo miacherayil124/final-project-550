@@ -33,23 +33,15 @@ When eliminating our search words, the following figure displays the the top wor
 ## Measuring polarity
 Once we filtered for our target words, start and end times, eliminated urls and common stop words, we were able to perform a sentiment analysis using the textbob . We then created a number of fields and a dataframe inlcusing date, text, polarity and subjectivity. The median polarity of tweets is 0.16, the mean 0.17. This indicates a slightly positive skew to the discussion surrounding electric vehicles.T
 
-![Fig4]({{ site.url }}{{ site.baseurl }}/assets/images/Fig4.png)
-
 <div id="hv-chart-4"></div>
 
 ## Measuring subjectivity
 The median subjectivity is .5 (on a scale of zero to one) indicating that the subjectivity skews lower.
 
-![Fig5]({{ site.url }}{{ site.baseurl }}/assets/images/Fig5.png)
-
 <div id="hv-chart-5"></div>
 
 ## Overall nature of tweets
 We then plot subjectivity and polarity against each other, and observe the trend that as subjectivity increases, so does polarity in both directions. That is, as the tweets get more and more subjective, they are also either most positive or more negative.
-
-![Fig6]({{ site.url }}{{ site.baseurl }}/assets/images/Fig6.png)
-
-![Fig7]({{ site.url }}{{ site.baseurl }}/assets/images/Fig7.png)
 
 <div id="hv-chart-6"></div>
 
@@ -57,8 +49,6 @@ We then plot subjectivity and polarity against each other, and observe the trend
 
 ## Trends in polarity and subjectivity through the years
 When grouping the biased tweets by the year we were able to generate two box and whiskers plots of polarity and subjectivity for each year between 2015-2019. Polarity is mostly positive but has been on a steady decline since 2015. The last plot tells a similar story and skewing more negative the close to 2019. 
-
-
 
 ![Fig8]({{ site.url }}{{ site.baseurl }}/assets/images/Fig8.png)
 

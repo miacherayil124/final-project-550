@@ -8,7 +8,8 @@ toc: false
 toc_sticky: false
 ---
 
-
+## Introduction & Context 
+![Fig1]({{ site.url }}{{ site.baseurl }}/assets/images/Fig1.png) 
 
 
 

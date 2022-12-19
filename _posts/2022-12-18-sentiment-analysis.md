@@ -12,6 +12,7 @@ Close to 33,000 tweets between 2015 and 2019 from the US were analysed using key
 
 ## Top 10 most common words gathered from tweets related to electric vehicles
 
+
 ![Fig1]({{ site.url }}{{ site.baseurl }}/assets/images/Fig1.png)
 
 ## Top 10 most common words without stop words

@@ -1,5 +1,5 @@
 ---
-title: "California Electric Vehicle Stations Spatial Analysis"
+title: "California EV Stations Spatial Analysis"
 date: 2022-12-18
 published: true
 tags: [dataviz, hvplot]

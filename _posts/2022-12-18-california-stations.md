@@ -3,7 +3,7 @@ title: "California EV Stations Spatial Analysis"
 date: 2022-12-18
 published: true
 tags: [dataviz, hvplot]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "Understanding the dynamics of EV charging stations in the State of California"
 hv-loader:
   hv-chart-1: ["charts/ca_stations.html", "700", "700"]
   hv-chart-2: ["charts/ev2.html", "700", "700"] 

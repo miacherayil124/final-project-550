@@ -11,6 +11,7 @@ toc_sticky: false
 Close to 33,000 tweets between 2015 and 2019 from the US were analysed using keywords like "electric vehicles", "tesla", and "EVs". The figures below show trends in the sentiments found in these tweets.
 
 ## Top 10 most common words gathered from tweets related to electric vehicles
+TESTING 
 
 ![Fig1]({{ site.url }}{{ site.baseurl }}/assets/images/Fig1.png)
 

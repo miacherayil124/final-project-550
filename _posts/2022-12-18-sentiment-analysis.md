@@ -28,7 +28,6 @@ Using the count word frequencies function we then were able to extract the top 1
 ## Top 10 most common words without search key words
 When eliminating our search words, the following figure displays the the top words in query. 
 
-
 ![Fig3]({{ site.url }}{{ site.baseurl }}/assets/images/Fig3.png)
 
 ## Measuring polarity
@@ -40,13 +39,13 @@ Once we filtered for our target words, start and end times, eliminated urls and 
 
 ## Measuring subjectivity
 The median subjectivity is .5 (on a scale of zero to one) indicating that the subjectivity skews lower.
+
 ![Fig5]({{ site.url }}{{ site.baseurl }}/assets/images/Fig5.png)
 
 <div id="hv-chart-5"></div>
 
 ## Overall nature of tweets
 We then plot subjectivity and polarity against each other, and observe the trend that as subjectivity increases, so does polarity in both directions. That is, as the tweets get more and more subjective, they are also either most positive or more negative.
-
 
 ![Fig6]({{ site.url }}{{ site.baseurl }}/assets/images/Fig6.png)
 

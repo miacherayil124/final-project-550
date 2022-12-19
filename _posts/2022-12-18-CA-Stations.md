@@ -1,17 +1,24 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
-date: 2019-04-13
+title: "California Electric Vehicle Stations Spatial Analysis"
+date: 2022-12-18
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: [dataviz, hvplot]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 hv-loader:
-  hv-chart-1: ["charts/ca_stations.html", "500"] # second argument is the height
+  hv-chart-1: ["charts/ca_stations.html", "1000"]
+  hv-chart-2: ["charts/ev2.html", "1000"] 
 toc: false
 toc_sticky: false
 ---
 
-## HvPlot Example
+## EV Stations in California 
 
-Lastly, the measles incidence produced using the HvPlot package:
+First we look at the count of electric vehicle charging stations in California.
 
 <div id="hv-chart-1"></div>
+
+## EV Level 2 Stations in California 
+
+We then look at how many high speed (EV level 2) stations are located in each city.
+
+<div id="hv-chart-2"></div>

@@ -1,6 +1,6 @@
 ---
 title: "California EV Stations Spatial Analysis"
-date: 2022-12-18
+date: 2022-12-17
 published: true
 tags: [dataviz, hvplot, matplotlib]
 excerpt: "Understanding the dynamics of EV charging stations in the State of California"

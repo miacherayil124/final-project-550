@@ -9,7 +9,7 @@ toc_sticky: false
 ---
 
 ## Introduction & Context 
-![Fig1]({{ site.url }}{{ site.baseurl }}/assets/images/Fig1.png) 
+![EV_image]({{ site.url }}{{ site.baseurl }}/assets/images/EV_image.png) 
 
 
 

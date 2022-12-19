@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 
-## Introduction & Context 
+ 
 ![EV_image]({{ site.url }}{{ site.baseurl }}/assets/images/EV_image.png) 
 
 

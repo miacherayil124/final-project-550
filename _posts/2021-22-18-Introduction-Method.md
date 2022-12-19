@@ -1,9 +1,9 @@
 ---
-title: "Introduction & Methodology"
+title: "Introduction & Context"
 date: 2022-12-18
 published: true
 
-excerpt: "Understanding trends in the sentiments around electric vehicles between 2015 and 2019"
+excerpt: "The following provides both an introduction and a breif context on the current state of EVs in the U.S. and California over the lasst decade."
 toc: false
 toc_sticky: false
 ---

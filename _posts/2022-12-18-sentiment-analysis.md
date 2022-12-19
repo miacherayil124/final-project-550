@@ -3,12 +3,16 @@ title: "Sentiment Analysis from Twitter Data"
 date: 2022-12-18
 published: true
 excerpt: "Understanding trends in the sentiments around electric vehicles between 2015 and 2019"
+hv-loader:
+  hv-chart-4: ["charts/plot.html", "700", "700"]
+  hv-chart-5: ["charts/plot2.html", "700", "700"] 
+  hv-chart-6: ["charts/plot3.html", "700", "700"] 
+  hv-chart-7: ["charts/plot4.html", "700", "700"] 
 toc: false
 toc_sticky: false
 ---
 This project begins by exploring twitter data and extracting a sentiment analysis from tweets between the years of 2015-2019. 
 By using an Academic Developer API (thanks Professor Nick), we were able to scrap nearly 33,000 tweets. We used our API tokens to initialize  several queries and used search terms like “electric vehicles, Evs, or tesla” along with the hashtags, then filtered by eliminating retweets, and tweets that contained URLs through the library Tweepy. 
- 
 
 ## Top 10 most common words gathered from tweets related to electric vehicles
 Using the count word frequencies function we then were able to extract the top 10 word frequencies across all tweets and created a dataframe to better organize and filter our data.
@@ -32,9 +36,13 @@ Once we filtered for our target words, start and end times, eliminated urls and 
 
 ![Fig4]({{ site.url }}{{ site.baseurl }}/assets/images/Fig4.png)
 
+<div id="hv-chart-4"></div>
+
 ## Measuring subjectivity
 The median subjectivity is .5 (on a scale of zero to one) indicating that the subjectivity skews lower.
 ![Fig5]({{ site.url }}{{ site.baseurl }}/assets/images/Fig5.png)
+
+<div id="hv-chart-5"></div>
 
 ## Overall nature of tweets
 We then plot subjectivity and polarity against each other, and observe the trend that as subjectivity increases, so does polarity in both directions. That is, as the tweets get more and more subjective, they are also either most positive or more negative.
@@ -43,6 +51,10 @@ We then plot subjectivity and polarity against each other, and observe the trend
 ![Fig6]({{ site.url }}{{ site.baseurl }}/assets/images/Fig6.png)
 
 ![Fig7]({{ site.url }}{{ site.baseurl }}/assets/images/Fig7.png)
+
+<div id="hv-chart-6"></div>
+
+<div id="hv-chart-7"></div>
 
 ## Trends in polarity and subjectivity through the years
 When grouping the biased tweets by the year we were able to generate two box and whiskers plots of polarity and subjectivity for each year between 2015-2019. Polarity is mostly positive but has been on a steady decline since 2015. The last plot tells a similar story and skewing more negative the close to 2019. 

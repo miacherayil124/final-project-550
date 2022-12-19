@@ -8,7 +8,7 @@ toc: false
 toc_sticky: false
 ---
 This project begins by exploring twitter data and extracting a sentiment analysis from tweets between the years of 2015-2019. 
-By using an Academic Developer API (thanks Professor Nick), we were able to scrap nearly 33,000 tweets. We used our API tokens to initialize  several queries and used search terms like “electric vehicles, Evs, or tesla” along with the hashtags, then filtered by elimiating retweets, and tweets that contained URLs through the library Tweepy. 
+By using an Academic Developer API (thanks Professor Nick), we were able to scrap nearly 33,000 tweets. We used our API tokens to initialize  several queries and used search terms like “electric vehicles, Evs, or tesla” along with the hashtags, then filtered by eliminating retweets, and tweets that contained URLs through the library Tweepy. 
  
 
 ## Top 10 most common words gathered from tweets related to electric vehicles
@@ -55,5 +55,5 @@ When grouping the biased tweets by the year we were able to generate two box and
 ![Fig9]({{ site.url }}{{ site.baseurl }}/assets/images/Fig9.png)
 
 
-It seems that EV sentiments are more nuanced than we initially thought and will seemingly to continue to evoke varied responses. We recongize that scrapping  twitter data only provides us with a narrow perspective of evs, and a perhaps a classic community survey would do a much better job of capturing a moe diverse sample size. 
-As hybrid and electric vehicles  slowly become more affordable to the general public, other opinions based on equity, affordability, and ev charging stations will continue to  be at the forefront of the EV conversation both on and off twitter. 
+It seems that EV sentiments are more nuanced than we initially thought and will seemingly to continue to evoke varied responses. We recongize that scrapping  twitter data only provides us with a narrow perspective of EVs, and perhaps a classic community survey would do a much better job of capturing a more diverse sample size. 
+As hybrid and electric vehicles  slowly become more affordable to the general public, other opinions based on equity, affordability, and EV charging stations will continue to  be at the forefront of the EV conversation both on and off twitter. 

@@ -3,7 +3,7 @@ title: "Introduction & Context"
 date: 2022-12-18
 published: true
 
-excerpt: "The following provides both an introduction and a brief context on the current state of EVs in the U.S. and California over the lasst decade."
+excerpt: "The following provides both an introduction and a brief context on the current state of EVs in the U.S. and California over the last decade."
 toc: false
 toc_sticky: false
 ---

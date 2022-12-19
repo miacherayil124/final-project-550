@@ -14,7 +14,7 @@ toc_sticky: false
 
 ## Introduction & Methodology
 
-In further refining our analysis, we will look at EV charging stations in the state of California. The data is taken from the U.S. Department of Energy, where we further filtered down the dataset to California, and fuel type electric.
+In further refining our analysis, we will look at EV charging stations in the state of California. The data is taken from the U.S. Department of Energy, where we further filtered down the dataset to California, and where the fuel type electric.
 
 After importing and refining our station and city data, we then merge the EV station data with the cities and add a "count" column with a value of 1 in order to add a numeric value to the analysis.
 

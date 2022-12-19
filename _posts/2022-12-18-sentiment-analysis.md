@@ -38,7 +38,7 @@ Once we filtered for our target words, start and end times, eliminated urls and 
 ## Measuring subjectivity
 The median subjectivity is .5 (on a scale of zero to one) indicating that the subjectivity skews lower.
 
-<div id="hv-chart-5"></div>
+<div id="hv-chart-5" display:inline-block></div>
 
 ## Overall nature of tweets
 We then plot subjectivity and polarity against each other, and observe the trend that as subjectivity increases, so does polarity in both directions. That is, as the tweets get more and more subjective, they are also either most positive or more negative.

@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis from Twitter Data"
-date: 2019-04-13
+date: 2022-12-18
 published: true
 
 excerpt: "Understanding trends in the sentiments around electric vehicles between 2015 and 2019"

@@ -28,6 +28,7 @@ Data sources:
 - https://data.ca.gov/dataset/ca-geographic-boundaries
 - https://geohub.lacity.org/datasets/lacounty::hud-qualified-census-tracts-2022/explore
 
+## Exploratory + Spatial Analaysis
 
 ### EV Stations by California City
 
@@ -47,7 +48,7 @@ Taking a closer look, we investigate EV stations in Los Angeles. The interactive
 
 <div id="hv-chart-3"></div>
 
-## EV Stations by Year
+### EV Stations by Year
 
 Lastly, we look at how many EV stations opened across the state by year. 2014-2019 saw minimal growth, however there was a drastic jump in 2020 and an even greater increase in 2021. Note that the data is by the openening year, therefore the count by year is not the total number of stations by year and does not incorporate the value of the previous year but rather shows, how many new stations were added by year.
 
